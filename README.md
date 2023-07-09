@@ -1,6 +1,14 @@
-Tasks to complete:
+# Sales Analysis Project
 
--What was the best month for sales? How much was earned that month? ANS: December
--What time should we display advertisements to maximise the likelihood of customers buying a product? ANS: 7pm-8pm
--What products are most often sold together? ANS: Iphone and lightning Cable
--What product was sold the most? ANS: USB-C Charging Cable
+### Purpose:
+A project used to deminstrate my knowledge and ability to manipulate data to gain meaningful information. This is the first stage in my portfolio development with the goal of securing a job as a Business Analyst. 
+
+### Objective:
+Use the companies sale data from 2019 to gain insight thhat could help the company improve in future.
+
+#### Tasks:
+  1. Determine which month was best for sales and the amount of revenue generated.
+  2. Determine when would be the most suitable time to display advertisements.
+  3. Determine what products are most commonly purchased together.
+  4. Determine what the best selling product of the year was.
+  
